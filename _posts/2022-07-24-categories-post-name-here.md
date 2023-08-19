@@ -7,7 +7,7 @@ categories:
 tags:
   - [깃허브, 블로그]
 
-permalink: /categories1/post-name-here/
+permalink: /:categories/:title/
 
 toc: true
 toc_sticky: true
